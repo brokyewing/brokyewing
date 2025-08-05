@@ -1,5 +1,5 @@
 <h1 align="center">Selam 👋, Ben İbrahim Askeroğlu</h1>
-<h3 align="center">Android Geliştirici (Kotlin)</h3>
+<h3 align="center">Software Developer </h3>
 
 <!-- Ziyaretçi Sayacı -->
 
