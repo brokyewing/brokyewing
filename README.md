@@ -47,12 +47,5 @@ Kullanıcı arayüzü tasarımından arka plan işlemlerine kadar bir mobil uygu
 </a>
 </p>
 
-🚀 Öne Çıkan Projelerim
-<table bordercolor="#66b2b2"> <tr> <td width="50%" valign="top"> <h3 align="center">Android Burger App</h3> <br /> <a target="_blank" href="https://github.com/brokyewing/kotlin-egitimi/tree/main/Bitirme"> <img src="https://placehold.co/600x400/FF5722/FFFFFF?text=Burger+Sipariş+App" width="100%" alt="Android Burger Uygulaması"/>  
- Kotlin ile geliştirilmiş, kullanıcıların ürünleri listeleyip sepetine ekleyebildiği bir burger sipariş uygulaması konsepti.   Hesap Makinesi - Android 
- https://github.com/brokyewing/kotlin-egitimi/tree/main/Odev5"> <img src="https://placehold.co/600x400/3DDC84/000000?text=Hesap+Makinesi" width="100%" alt="Hesap Makinesi Uygulaması"/>  
- Kotlin ile geliştirilmiş, dört temel matematiksel işlemi ve modern bir arayüzü destekleyen bir Android hesap makinesi.     To-Do List Uygulaması 
- https://github.com/brokyewing/kotlin-egitimi/tree/main/Odev7"> <img src="https://placehold.co/600x400/000000/FFFFFF?text=To-Do+List" width="100%" alt="Yapılacaklar Listesi Uygulaması"/> </a> <br /> <p><b>Kotlin</b> ile geliştirilmiş, görev ekleme, silme ve arama gibi temel özelliklere sahip bir yapılacaklar listesi uygulaması.</p> </td> <td width="50%" valign="top"> <h3 align="center">Hesaplama Araçları</h3> <br /> <a target="_blank" href="https://github.com/brokyewing/kotlin-egitimi/tree/main/odev1-2"> <img src="https://placehold.co/600x400/2196F3/FFFFFF?text=Hesaplama+Araçları" width="100%" alt="Hesaplama Uygulaması"/> </a> <br /> <p>Dikdörtgen çevre hesaplama gibi temel geometrik ve matematiksel hesaplamaları yapan bir Android uygulaması.</p> </td> </tr> </table>
-
 📊 GitHub İstatistiklerim
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brokyewing&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brokyewing&layout=compact&langs_count=8&theme=dracula"/> </p>
